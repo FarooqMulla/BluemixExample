@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BluemixSample-JAVA.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>BluemixSample-NodeJS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E1824CC71C08B73600A2DED4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E1824CE01C08B73600A2DED4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E1824CEB1C08B73600A2DED4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E1C3C2321C0A409500597051</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

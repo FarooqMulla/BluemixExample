@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NodeJS</key>
+	<dict>
+		<key>applicationRoute</key>
+		<string></string>
+		<key>applicationGUID</key>
+		<string></string>
+		<key>STTValues</key>
+		<dict>
+			<key>url</key>
+			<string>https://stream.watsonplatform.net/speech-to-text/api/</string>
+			<key>userName</key>
+			<string></string>
+			<key>password</key>
+			<string></string>
+		</dict>
+		<key>TTSValues</key>
+		<dict>
+			<key>url</key>
+			<string>https://stream.watsonplatform.net/text-to-speech/api</string>
+			<key>userName</key>
+			<string></string>
+			<key>password</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>JAVA</key>
+	<dict>
+		<key>applicationRoute</key>
+		<string></string>
+		<key>applicationGUID</key>
+		<string></string>
+		<key>STTValues</key>
+		<dict>
+			<key>url</key>
+			<string>https://stream.watsonplatform.net/speech-to-text/api/</string>
+			<key>userName</key>
+			<string></string>
+			<key>password</key>
+			<string></string>
+		</dict>
+		<key>TTSValues</key>
+		<dict>
+			<key>url</key>
+			<string>https://stream.watsonplatform.net/text-to-speech/api</string>
+			<key>userName</key>
+			<string></string>
+			<key>password</key>
+			<string></string>
+		</dict>
+	</dict>
+</dict>
+</plist>

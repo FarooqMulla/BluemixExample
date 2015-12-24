@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "803F59CAE3A5841CCF37789E316605FD8A1BDA54",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "803F59CAE3A5841CCF37789E316605FD8A1BDA54" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DB269F80-DC4B-4821-80E2-34231B6B3076",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "803F59CAE3A5841CCF37789E316605FD8A1BDA54" : "BluemixExample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BluemixSample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BluemixSample.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FarooqMulla\/BluemixExample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "803F59CAE3A5841CCF37789E316605FD8A1BDA54"
+    }
+  ]
+}
